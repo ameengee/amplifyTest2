@@ -39,7 +39,7 @@ const Header = () => {
     } catch (error) {
       console.error('Error calling API:', error);
     }
-  };  
+  };
 
   return (
     <div className="header">
